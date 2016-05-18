@@ -4,4 +4,4 @@
 <p>
 效果图如下
 <p>
- ![image](https://github.com/t2314862168/GifTestDemo/tree/master/screenshots/jdfw.gif)
+ ![image](https://github.com/t2314862168/GifTestDemo/blob/master/screenshots/jdfw.gif)
